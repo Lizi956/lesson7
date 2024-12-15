@@ -1,0 +1,154 @@
+.container {
+  width: 1220px;
+  height: 65px;
+  display: flex;
+  margin: 0 auto;
+  position: flex;
+}
+.container-2 {
+  width: 825px;
+  height: 65px;
+  display: flex;
+}
+.logo {
+  width: 200px;
+}
+.ul-elements {
+  display: flex;
+  line-height: 49px;
+  padding-left: 55px;
+}
+.padding {
+  padding-left: 40px;
+}
+.img {
+  padding-left: 40px;
+}
+.section {
+  width: 1220px;
+  height: 520px;
+  margin: 0 auto;
+}
+.text-size {
+  size: 40px;
+  font-family: "Roboto", serif;
+  font-weight: 700;
+  font-style: italic;
+  padding-top: 20px;
+  size: 40px;
+  width: 283px;
+  height: 48px;
+}
+.text {
+  width: 283px;
+  margin: 0 auto;
+}
+.title-size {
+  width: 119px;
+  height: 22px;
+}
+.first-div {
+  width: 386px;
+  height: 383px;
+  background-color: rgba(244, 244, 244, 1);
+  line-height: 50px;
+  text-align: center;
+}
+.font {
+  font-weight: 700;
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+.text-color {
+  color: rgba(107, 119, 229, 1);
+}
+.box-size {
+  width: 300px;
+  height: 185px;
+  margin: 0 auto;
+}
+.icon-box {
+  width: 72px;
+  height: 72px;
+  border-radius: 100px;
+  background-color: rgba(64, 221, 182, 1);
+}
+
+.second-div {
+  width: 386px;
+  height: 383px;
+  background-color: rgba(244, 244, 244, 1);
+  line-height: 50px;
+  text-align: center;
+}
+.third-div {
+  width: 386px;
+  height: 383px;
+  background-color: rgba(244, 244, 244, 1);
+  line-height: 50px;
+  text-align: center;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+.img-class {
+  width: 100%;
+  height: 557px;
+}
+.section3 {
+  width: 1220px;
+  display: flex;
+  margin: 0 auto;
+}
+.color {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.img-box {
+  background-color: #fff;
+  width: 341px;
+  height: 114px;
+  position: absolute;
+  left: 22px;
+  bottom: 22px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.position-div {
+  width: 386px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+.txtcolor {
+  font-weight: 700;
+  font-style: italic;
+}
+.fa-angle-down {
+  padding-left: 4px;
+  margin-top: 17px;
+}
+.h3-class-font {
+  font-weight: 700;
+  font-style: italic;
+}
+.box-text {
+  width: 511px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  line-height: 50px;
+}
+.imgrelative {
+  position: relative;
+}
+.text-size3 {
+  text-align: center;
+}
